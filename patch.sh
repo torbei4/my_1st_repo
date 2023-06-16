@@ -1,6 +1,5 @@
 #!/usr/bin/bash
-echo "it is not fixed yeat!"
-
+echo "fixed!"
 exit 0
 
 ## hotfix
